@@ -1,3 +1,5 @@
+App for friends
+
 # Install
 
 `npm install`
